@@ -1,0 +1,15 @@
+h1 {
+    font-size: 60px;
+}
+
+#DOWNLOAD {
+    margin-left: 121px;
+    margin-top: 1px;
+    width: 100px;
+    height: 100px;   
+    background: transparent;
+    border: none;
+    color:black;   
+    font-size: 50px;
+    font-weight:700;
+}
